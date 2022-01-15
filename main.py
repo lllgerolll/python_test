@@ -11,8 +11,5 @@ try:
     for i in lins:
         print(i)
     file.close()
-except ValueError:
-    print (ValueError)
-except Exception:
-    print ("eto govnishe",ValueError)
+
 
